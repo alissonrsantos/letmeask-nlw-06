@@ -1,13 +1,15 @@
 <div align="center">
-    ![letmeask Logo](../assets/images/logo.svg)
+    ![letmeask Logo](/assets/images/logo.svg)
 </div>
 <p>Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.</p>
 
 ## Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-    * React
-    * Typescript
-    * Firebase
+<p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
+    <ul>
+        <li>React</li>
+        <li>Typescript</li>
+        <li>Firebase</li>
+    </ul>
 
 ## Como executar
 Clone o projeto e acesse a pasta do mesmo.
@@ -27,4 +29,4 @@ $ yarn start
 ## License
 Esse projeto está sob a licença &copy;MIT.
 
-Feito por Alisson Romão Santos
+Feito por Alisson Romão Santos.
