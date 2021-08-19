@@ -1,6 +1,6 @@
-<img align="center" src="./assets/images/logo.svg" alt="letmeask Logo"/>
-
-<p>Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.</p>
+<p align="center">
+  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+</p>
 
 ## Tecnologias
 <p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
