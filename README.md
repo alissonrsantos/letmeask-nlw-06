@@ -1,5 +1,4 @@
-![letmeask Logo](/assets/images/logo.svg)
-Format: ![Alt Text](url)
+<img align="center" src="./assets/images/logo.svg" alt="letmeask Logo"/>
 
 <p>Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.</p>
 
