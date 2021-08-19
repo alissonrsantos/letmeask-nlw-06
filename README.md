@@ -28,4 +28,4 @@ $ yarn start
 ## License
 Esse projeto está sob a licença &copy;MIT.
 
-Feito por Alisson Romão Santos.
+Feito por Alisson Romão Santos durante a 6ª edição da NLW da Rocketseat.
